@@ -49,7 +49,7 @@ Este script está específicamente diseñado para funcionar en la siguiente URL:
 
 1.  **Asegúrate de tener Tampermonkey** (o un gestor similar) instalado en tu navegador.
 2.  **Instala el script:**
-    * **Opción 1 (Recomendada si el archivo `script.js` está en GitHub):**
+    * **Opción 1:**
         * Navega al archivo `script.js` en este repositorio de GitHub.
         * Haz clic en el botón "Raw".
         * Tampermonkey debería detectar automáticamente el script y ofrecerte instalarlo. Confirma la instalación.
@@ -59,6 +59,12 @@ Este script está específicamente diseñado para funcionar en la siguiente URL:
         * Copia todo el contenido del archivo `script.js` de este script.
         * Pega el contenido en el editor de Tampermonkey, reemplazando cualquier texto de plantilla.
         * Guarda el script (Archivo > Guardar).
+   * **Opción 3 (Desde Greasy Fork):**
+        * Visita la página del script en Greasy Fork:
+          [Script de Encuestas Automaticas de la Evaluacion Docente UAN 2025](https://greasyfork.org/es-419/scripts/538056-script-de-encuestas-automaticas-de-la-evaluacion-docente-uan-2025)
+        * Haz clic en el botón verde que dice "Instalar este script" (o similar).
+        * Tampermonkey se abrirá y te pedirá confirmación para instalar el script. ¡Confirma y listo!
+      
 
 ---
 
