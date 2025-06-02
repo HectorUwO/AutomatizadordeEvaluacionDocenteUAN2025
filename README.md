@@ -1,8 +1,6 @@
 # Script de Encuestas Automáticas - Evaluación Docente UAN 📚✨
 
-**Autor:** [Hector Medrano](https://github.com/HectorUwO)
-**Versión:** 1.0.1
-**Dirigido a:** Estudiantes de la UAN para la Evaluación Docente del periodo 2025 (o similar).
+**Autor:** [HectorUwO](https://github.com/HectorUwO)
 
 ---
 
