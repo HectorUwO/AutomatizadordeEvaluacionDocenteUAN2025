@@ -59,7 +59,7 @@ Este script está específicamente diseñado para funcionar en la siguiente URL:
         * Copia todo el contenido del archivo `script.js` de este script.
         * Pega el contenido en el editor de Tampermonkey, reemplazando cualquier texto de plantilla.
         * Guarda el script (Archivo > Guardar).
-   * **Opción 3 (Desde Greasy Fork):**
+   * **Opción 3 RECOMENDADA! (Desde Greasy Fork):**
         * Visita la página del script en Greasy Fork:
           [Script de Encuestas Automaticas de la Evaluacion Docente UAN 2025](https://greasyfork.org/es-419/scripts/538056-script-de-encuestas-automaticas-de-la-evaluacion-docente-uan-2025)
         * Haz clic en el botón verde que dice "Instalar este script" (o similar).
