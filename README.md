@@ -6,7 +6,7 @@
 
 ## 🚀 Descripción
 
-Este script para Tampermonkey (o gestores de UserScripts similares) está diseñado para **agilizar el proceso de llenado de las encuestas de Evaluación Docente** en la plataforma PIIDA de la Universidad Autónoma de Nayarit (UAN).
+Este script para ViolentMonkey (o gestores de UserScripts similares) está diseñado para **agilizar el proceso de llenado de las encuestas de Evaluación Docente** en la plataforma PIIDA de la Universidad Autónoma de Nayarit (UAN).
 
 El script automatiza las partes más repetitivas:
 * Abre cada encuesta de docente una por una.
@@ -39,15 +39,15 @@ Este script está específicamente diseñado para funcionar en la siguiente URL:
 ## 📋 Requisitos Previos
 
 1.  Un **navegador web moderno** (Chrome, Firefox, Edge, etc.).
-2.  Una **extensión de gestión de UserScripts**. La más popular es:
-    * [Tampermonkey](https://www.tampermonkey.net/) (Recomendada)
-    * También puede funcionar con Greasemonkey (Firefox) o Violentmonkey.
+2.  Una **extensión de gestión de UserScripts**. 
+    * [Violentmonkey](https://violentmonkey.github.io) (Recomendada)
+    * También puede funcionar con Greasemonkey (Firefox) o TemperMonkey.
 
 ---
 
 ## ⚙️ Instalación
 
-1.  **Asegúrate de tener Tampermonkey** (o un gestor similar) instalado en tu navegador.
+1.  **Asegúrate de tener Violentmonkey** (o un gestor similar) instalado en tu navegador.
 2.  **Instala el script:**
     * **Opción 1:**
         * Navega al archivo `script.js` en este repositorio de GitHub.
